@@ -24,7 +24,7 @@
   - Says vague prophecies like:
     > *"He stares beyond render."*  
     > *"Something crawls where light can't touch."*
-- **Lore**: Static is the observer, the announcer. It knows what’s coming.
+- **Lore**:Static Is The Main Entity,It knows what’s coming.
 
 ### 🔹 **2. Observer** *(Coming Soon)*  
 > A corrupted villager twisted by knowledge it should not possess.
