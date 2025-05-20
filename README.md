@@ -121,28 +121,27 @@
 > These are **visual references** or mood boards — not final models.
 
 ### 🖤 Static
-![Static Entity](https://i.pinimg.com/originals/95/70/ba/9570bad3f6a581ad9ec2e91d5fd32d17.png)
+![Static Entity]
 
 ### 👁️ Observer
-![Observer](https://i.pinimg.com/originals/e1/d8/84/e1d8847f214553b4b43cf3c3e2f4e7c0.jpg)
+![Observer]
 
 ### 🕷️ Halt
-![Halt](https://i.pinimg.com/originals/ae/5e/b5/ae5eb5318dd9a219680c13f367b7a2b0.png)
+![Halt]
 
 ### ⚡ Spectral
-![Spectral](https://i.pinimg.com/originals/5f/d1/f7/5fd1f7276dcbe607a00e0156bb255bb2.png)
+![Spectral]
 
 ### 🔥 Herobrine
-![Herobrine](https://i.pinimg.com/originals/9c/22/e3/9c22e322420f03d02813c313dc6b3c99.jpg)
+![Herobrine]
 
 ### 🧍‍♀️ Alexbrine
-![Alexbrine](https://i.pinimg.com/originals/b0/69/4b/b0694b0c0dece154f91e6208efb41016.jpg)
+![Alexbrine]
 
 ### 🪞 User_1 (Mimicer)
-![Mimicer](https://i.pinimg.com/originals/15/33/55/153355f3211d3ea1f8f09d2c3db3524c.png)
-
+![Mimicer](https://static.wikia.nocookie.net/redacted-smps/images/1/15/Entity-06.png/revision/latest?cb=20230707003907) [Similar concept, but enhanced]
 ### ❓ Redacted
-![Redacted](https://i.pinimg.com/originals/53/3f/f5/533ff5569cb2591d87e2b487f62fc73f.jpg)
+![Redacted](https://static.wikia.nocookie.net/redacted-smps/images/c/c5/15C.png/revision/latest?cb=20240628031453)]
 
 ---
 
