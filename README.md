@@ -138,8 +138,8 @@
 ### 🧍‍♀️ Alexbrine
 ![Alexbrine]
 
-### 🪞 User_1 (Mimicer)
-![Mimicer](https://static.wikia.nocookie.net/redacted-smps/images/1/15/Entity-06.png/revision/latest?cb=20230707003907) [Similar concept, but enhanced]
+### 🪞 User_1 (Mimicer) [Similar concept, but enhanced]
+![Mimicer](https://static.wikia.nocookie.net/redacted-smps/images/1/15/Entity-06.png/revision/latest?cb=20230707003907)
 ### ❓ Redacted
 ![Redacted](https://static.wikia.nocookie.net/redacted-smps/images/c/c5/15C.png/revision/latest?cb=20240628031453)]
 
